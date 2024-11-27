@@ -8,6 +8,11 @@ import item3 from '../images/item3.png'
 import item4 from '../images/item4.png'
 import item5 from '../images/item5.jpg'
 import item6 from '../images/item6.jpg'
+import alag from '../images/alag.png'
+import keks from '../images/keks.png'
+import luuvan from '../images/luuvan.jpg'
+import byluu from '../images/item11.png'
+import cup from '../images/cup.png'
 
 class Home extends React.Component {
   render() {
@@ -30,11 +35,40 @@ class Home extends React.Component {
         </div>
 
     <div class="category-home">
-    <div class="_001A"></div>
-    <div class="_002A"></div>
-    <div class="_003A"></div>
-    <div class="_004A"></div>
-    <div class="_005A"></div>
+    <div class="_001A">
+      <img src={alag}></img>
+      <div class ="info">
+        <h3>Шинэ бүтээгдэхүүн</h3>
+        <p>Бор жигнэмэг юм шиг байна</p>
+      </div>
+      <button>Цааш үзэх</button>
+    </div>
+    <div class="_002A">
+    <img src={luuvan}></img>
+      <div class ="info">
+        <h3>Шинэ бүтээгдэхүүн</h3>
+        <p>Бор жигнэмэг юм шиг байна</p>
+      </div>
+    </div>
+    <div class="_003A">
+      <img src={byluu}></img>
+      <div class ="info2">
+        <h3>Шинэ бүтээгдэхүүн</h3>
+        <p>Бор жигнэмэг юм шиг байна</p>
+      </div>
+    </div>
+    <div class="_004A">
+    <img src={keks}></img>
+    </div>
+    <div class="_005A">
+    <img src={cup}></img>
+    <div class ="info1">
+        <h3>Шинэ бүтээгдэхүүн</h3>
+        <p>Бор жигнэмэг юм шиг байна</p>
+        <button>Цааш үзэх</button>
+      </div>
+        
+    </div>
 </div>
 
 
