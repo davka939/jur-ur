@@ -54,140 +54,19 @@ height: 834px;
     align-items: flex-start;
     padding: 0px;
 
-    width: 420px;
-    height: 178px;
-    margin-left: 750px;
-    margin-top: 500px;
-    background-color: rgb(255, 255, 255);
-    /* Inside auto layout */
-    flex: none;
-    order: 1;
-    flex-grow: 0;
-    z-index: 1;
-    opacity: 0.9;
-    border-radius: 10px;
-}
-.heroshop-home h2{
-width: 263px;
-height: 23px;
-font-family: 'Quicksand';
-font-style: normal;
-font-weight: 600;
-font-size: 18px;
-line-height: 22px;
-text-transform: capitalize;
-color: #000000;
+width: 420px;
+height: 178px;
+margin-left: 750px;
+margin-top: 500px;
+background-color: brown;
+/* Inside auto layout */
 flex: none;
-order: 0;
-align-self: stretch;
+order: 1;
 flex-grow: 0;
-margin-left: 180px;
-margin-top: -70px
+z-index: 1;
 }
-.heroshop-home p{
-    margin-top: -10px;
-    margin-left: 180px;
-    font-family: 'Quicksand';
-    font-style: normal;
-}
-.heroshop-home button{
-    display: flex; 
-  justify-content: center; 
-  align-items: center; 
-  padding: 10px 20px;
-  background-color: #1e3a8a; 
-  color: white; 
-  border: none; 
-  border-radius: 5px; 
-  font-size: 14px; 
-  cursor: pointer; 
-  text-align: center; 
-  margin-left: 210px;
-}
-.head-home h1{
-    width: 620px;
-    height: 53px;
-    font-family: 'Pacifico';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 35px;
-    line-height: 52px;
-    color: #1B3363;
-    flex: none;
-    order: 0;
-    flex-grow: 0;
-    align-items: center;
-    margin-left: 160px;
-    margin-top: 80px;
-}
-.head-home h2{
-    width: 495px;
-    height: 72px;
-    font-family: 'Pacifico';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 35px;
-    color: #000000;
-    flex: none;
-    margin-top: -20px;
-    margin-left: 200px;
-}
-/* Ð¦Ð°Ð°Ñˆ Ò¯Ð·ÑÑ… */
-.heads-home h1{
-    width: 620px;
-    height: 53px;
-    font-family: 'Pacifico';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 35px;
-    line-height: 52px;
-    color: #1B3363;
-    flex: none;
-    order: 0;
-    flex-grow: 0;
-    align-items: center;
-    margin-left: 110px;
-    margin-top: -5px;
-}
-.heads-home h2{
-    width: 700px;
-    height: 72px;
-    font-family: 'Pacifico';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 35px;
-    color: #000000;
-    flex: none;
-    margin-top: -20px;
-    margin-left: 40px;
-}
-.head1-home h1{
-    height: 53px;
-    font-family: 'Pacifico';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 35px;
-    line-height: 52px;
-    color: #1B3363;
-    flex: none;
-    order: 0;
-    flex-grow: 0;
-    align-items: center;
-    margin-left: 300px;
-    margin-top: 20px;
-}
-.head1-home h2{
-    width: 650px;
-    height: 72px;
-    font-family: 'Pacifico';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 35px;
-    color: #000000;
-    flex: none;
-    margin-top: -20px;
-    margin-left: 130px;
-}
+
+
 .heads-home{
 /* heads */
 
