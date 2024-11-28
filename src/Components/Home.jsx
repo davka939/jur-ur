@@ -1,6 +1,6 @@
 import React from 'react';
 import '../Styles/home.css';
-import banner from'../Styles/banner.png';
+import banner from '../Styles/banner.png';
 import hero from '../Styles/hero.jpg';
 import alag from'../Styles/alag.png';
 import luuvan from '../Styles/luuvan.jpg'; 
