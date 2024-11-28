@@ -1,5 +1,20 @@
 import React from 'react';
 import '../Styles/home.css';
+import banner from'../Styles/banner.png';
+import hero from '../Styles/hero.jpg';
+import alag from'../Styles/alag.png';
+import luuvan from '../Styles/luuvan.jpg'; 
+import byluu from '../Styles/item11.png';
+import keks from '../styles/keks.png'; 
+import cup from '../styles/terguun.png';
+import item1 from '../styles/item1.jpg';
+import item2 from '../styles/item2.jpg';
+import item3 from '../styles/item3.jpg';
+import item4 from '../styles/item4.jpg';
+import item5 from '../styles/item5.jpg';
+import item6 from '../styles/item6.jpg';
+
+
 
 class Home extends React.Component {
   render() {
